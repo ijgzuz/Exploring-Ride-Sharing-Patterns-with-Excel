@@ -65,6 +65,13 @@ The dataset includes:
 ## 📎 Data Source
 - [Kaggle — Ride Sharing Dataset](https://www.kaggle.com)
 
+
+##  Dataset
+Here is the data for this project.
+
+
+- [Dataset](https://github.com/ijgzuz/Exploring-Ride-Sharing-Patterns-with-Excel/blob/main/Ride%20Sharing%20Data.xlsx) 
+
 ---
 
 ## 📌 Author
